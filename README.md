@@ -33,5 +33,5 @@ A partir de acá, podés:
   
 # ¿Qué es el PdePreludat?
 
-Es una librería que cambia un poco lo que sería la librería estandar que usa Haskell automáticamente (la cual se llama Prelude). Idealmente simplifica algunas cosas que no son necesarias a la materia y mejora algunos mensajes de error.
+Es una biblioteca que cambia un poco lo que sería la librería estandar que usa Haskell automáticamente (la cual se llama Prelude). Idealmente simplifica algunas cosas que no son necesarias a la materia y mejora algunos mensajes de error.
 Para leer más sobre esto: https://github.com/10Pines/pdepreludat
